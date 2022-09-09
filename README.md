@@ -9,6 +9,9 @@ This bot is an improved version of the [open source bot](https://github.com/Robe
 > Note: Since ver.5.0.0 and safetynet implementation in the JP Version, there is no way to create a JP account from the bot !!
 > So the bot only works with GLB version, even if options for the JP version are displayed, it will return to the GLB version.
 
+## Version
+App version : alpha 1.0.1
+Dokkan version (GLB) : 5.5.2
 ## Features
 
 - Complete any event with instant finish (Dokkan events, Z-Battle, Red Zone and more)
@@ -18,8 +21,8 @@ This bot is an improved version of the [open source bot](https://github.com/Robe
 - and more !
 
 ## Installation
-- You don't have to install anything, just run the .exe
-
+- Download the project [here](https://github.com/daye10/dokkan-farm-bot-release/archive/refs/heads/master.zip)
+- Unzip, and run the .exe file
 
 ## Instructions
 - Keep help.txt, glb.db, Saves directory and the app  in the same directy.
@@ -31,12 +34,9 @@ This bot is an improved version of the [open source bot](https://github.com/Robe
 ## Development
 
 Want to contribute? Great!
+If you find any bug, some features that you would like to see in the future or any other question, contact by reporting an [issue](https://github.com/daye10/dokkan-farm-bot-release/issues).
 
-If you find any bug, some features that you would like to see in the future or any other question, contact me via support.dokkanfarmbot@gmail.com.
+**Huge Thanks to every person that worked on the open source version !!**
 
-**Huge Thanks to every person that worked on the open source version**
-
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
    [open-source-bot]: https://github.com/RobertRautenbach/Open-Source-Battle-Bot
-   [![N|Solid](https://www.apkmirror.com/wp-content/uploads/2021/11/07/6184756bae571.png)](https://nodesource.com/products/nsolid)
