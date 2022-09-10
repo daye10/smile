@@ -10,7 +10,7 @@ This bot is an improved version of the [open source bot](https://github.com/Robe
 > So the bot only works with GLB version, even if options for the JP version are displayed, it will return to the GLB version.
 
 ## Version
-App version : alpha 1.0.1
+App version : alpha 1.0.2
 Dokkan version (GLB) : 5.5.2
 ## Features
 
