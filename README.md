@@ -13,6 +13,8 @@ This bot is an improved version of the [open source bot](https://github.com/Robe
 App version : alpha 1.0.2
 
 Dokkan version (GLB) : 5.5.2
+
+https://github.com/daye10/dokkan-farm-bot-release/releases
 ## Features
 
 - Complete any event with instant finish (Dokkan events, Z-Battle, Red Zone and more)
