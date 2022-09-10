@@ -40,7 +40,7 @@ https://github.com/daye10/dokkan-farm-bot-release/releases
 ## Contact, Bug, Contribution, ...
 
 Want to contribute? Great!
-If you find any bug, some features that you would like to see in the future or any other question, contact by reporting an [issue](https://github.com/daye10/dokkan-farm-bot-release/issues).
+If you find any bug, some features that you would like to see in the future or any other question, contact me by opening a [disscussion](https://github.com/daye10/dokkan-battle-farm-bot-app/discussions) or reporting an [issue](https://github.com/daye10/dokkan-farm-bot-release/issues).
 
 **Huge Thanks to every person that worked on the open source version !!**
 
