@@ -22,7 +22,10 @@ Dokkan version (GLB) : 5.5.2
 
 ## Installation
 - Download the project [here](https://github.com/daye10/dokkan-farm-bot-release/archive/refs/heads/master.zip)
-- Unzip, and run the .exe file
+- Download [dokkan.exe](https://github.com/daye10/dokkan-farm-bot-release/raw/master/dokkan.exe)
+- Move dokkan.exe in the unziped folder
+- Run  dokkan.exe 
+- Enjoy !
 
 ## Instructions
 - Keep help.txt, glb.db, Saves directory and the app  in the same directy.
