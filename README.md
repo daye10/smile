@@ -11,6 +11,7 @@ This bot is an improved version of the [open source bot](https://github.com/Robe
 
 ## Version
 App version : alpha 1.0.2
+
 Dokkan version (GLB) : 5.5.2
 ## Features
 
