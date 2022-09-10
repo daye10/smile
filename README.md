@@ -6,8 +6,8 @@
 This bot allow players to easily complete every events, but also includes many features such as summoning, transfer account from facebook, farm, and many others features!
 
 This bot is an improved version of the [open source bot](https://github.com/RobertRautenbach/Open-Source-Battle-Bot), I updated it and added some extra features.
-> Note: Since ver.5.0.0 and safetynet implementation in the JP Version, there is no way to create a JP account from the bot !!
-> So the bot only works with GLB version, even if options for the JP version are displayed, it will return to the GLB version.
+> Note: Since ver.5.0.0 and safetynet implementation on the JP Version, there is no way to create a JP account from the bot.
+> So it only works with GLB version, even if options for the JP version are displayed, it will return to the GLB version.
 
 ## Version
 App version : alpha 1.0.2
@@ -42,7 +42,7 @@ https://github.com/daye10/dokkan-farm-bot-release/releases
 Want to contribute? Great!
 If you find any bug, some features that you would like to see in the future or any other question, contact me by opening a [disscussion](https://github.com/daye10/dokkan-battle-farm-bot-app/discussions) or reporting an [issue](https://github.com/daye10/dokkan-farm-bot-release/issues).
 
-**Huge Thanks to every person that worked on the open source version !!**
+**Huge Thanks to every person who worked on the open source version !!**
 
 
    [open-source-bot]: https://github.com/RobertRautenbach/Open-Source-Battle-Bot
