@@ -35,7 +35,7 @@ Dokkan version (GLB) : 5.5.2
 - If you want to customise the web browser icon, add the png of your choice with the name "browser_icon.png"
 
 
-## Development
+## Contact, Bug, Contribution, ...
 
 Want to contribute? Great!
 If you find any bug, some features that you would like to see in the future or any other question, contact by reporting an [issue](https://github.com/daye10/dokkan-farm-bot-release/issues).
