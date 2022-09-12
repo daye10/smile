@@ -9,6 +9,11 @@ This bot is an improved version of the [open source bot](https://github.com/Robe
 > Note: Since ver.5.0.0 and safetynet implementation on the JP Version, there is no way to create a JP account from the bot.
 > So it only works with GLB version, even if options for the JP version are displayed, it will return to the GLB version.
 
+```diff
+- 🔴 Facebook Link issue :
+Once you have clicked on "Continue" close the browser window, link to your facebook account will process as well !!
+```
+
 ## Version
 App version : alpha 1.0.2
 
