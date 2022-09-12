@@ -25,7 +25,7 @@ https://github.com/daye10/dokkan-farm-bot-release/releases
 
 ## Installation
 - Download the project [here](https://github.com/daye10/dokkan-farm-bot-release/archive/refs/heads/master.zip)
-- Download [dokkan.exe](https://github.com/daye10/dokkan-farm-bot-release/raw/master/dokkan.exe)
+- Download [dokkan.exe](https://mega.nz/file/hEIm2RgB#Iq-c9juSI61XMMV3HV9UkZ4lGDncmtCi6Fwboc0ugL4)
 - Move dokkan.exe in the unziped folder
 - Run  dokkan.exe 
 - Enjoy !
@@ -34,7 +34,6 @@ https://github.com/daye10/dokkan-farm-bot-release/releases
 - Keep help.txt, glb.db, Saves directory and the app  in the same directy.
 - To get specific ID of an event, browse the glb.db file using this : https://inloop.github.io/sqlite-viewer/
 - Once the database is decrypted, you can delete enc_glb.db file.
-- If you want to customise the web browser icon, add the png of your choice with the name "browser_icon.png"
 
 
 ## Contact, Bug, Contribution, ...
