@@ -17,9 +17,9 @@ Since version Z, you have to finish all missions of the "The Greatest Warrior" p
 ```
 
 ## Version
-App version : alpha 1.0.3
+App version : alpha 1.0.5
 
-Dokkan version (GLB) : 5.6.1
+Dokkan version (GLB) : 5.7.1
 
 https://github.com/daye10/dokkan-farm-bot-release/releases
 ## Features
@@ -32,7 +32,7 @@ https://github.com/daye10/dokkan-farm-bot-release/releases
 
 ## Installation
 - Download the project [here](https://github.com/daye10/dokkan-farm-bot-release/archive/refs/heads/master.zip)
-- Download [dokkan.exe](https://mega.nz/file/l9FhwKyC#TYZ5i9b8VvguvbWyIFUTf9YV5PEQl04pkpEGHl7LI7A)
+- Download [dokkan.exe](https://mega.nz/file/MMInkAxJ#cNWodF5ER624xlJGse7nfLiq83Z9sTsEbqpf8njEDBI)
 - Move dokkan.exe in the unziped folder
 - Run  dokkan.exe 
 - Enjoy !
@@ -42,7 +42,12 @@ https://github.com/daye10/dokkan-farm-bot-release/releases
 - To get specific ID of an event, browse the glb.db file using this : https://inloop.github.io/sqlite-viewer/
 - Once the database is decrypted, you can delete enc_glb.db file.
 
-
+## TODO / Coming Soon
+- Auto complete great warrior goku missions ⌛
+- Signal user to update bot ⌛
+- Use mediafire instead of mega so we can use the same link ⌛
+- Show all current events ⌛
+- 
 ## Contact, Bug, Contribution, ...
 
 Want to contribute? Great!
