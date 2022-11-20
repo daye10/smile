@@ -10,7 +10,7 @@ if you have a comment, do not hesitate to let me know!
 '''
 
 client = 'global'
-global_version = '5.5.2'
+global_version = '5.7.1'
 bot_app_version = 'alpha-1.0.2'
 
 release_url = 'https://github.com/daye10/dokkan-battle-farm-bot-app/releases' 
