@@ -5,6 +5,8 @@
 
 This bot allow players to easily complete every events, but also includes many features such as summoning, transfer account from facebook, farm, and many others features!
 
+==Note that the bot is not optimal, Dokkan Battle is a game that changes each update. To keep the bot up to date and optimal all the time, it would be necessary to devote several weeks or even several months to it. We don't necessarily have time to work on it. So the updates will be done as we go along. Nevertheless, if someone thinks he can help in the development, it will be pleasure for us adding him to the team. It's above all a project by the community for the community.==
+
 This bot is an improved version of the [open source bot](https://github.com/RobertRautenbach/Open-Source-Battle-Bot), I updated it and added some extra features.
 > Note: Since ver.5.0.0 and safetynet implementation on the JP Version, there is no way to create a JP account from the bot.
 > So it only works with GLB version, even if options for the JP version are displayed, it will return to the GLB version.
@@ -47,7 +49,7 @@ https://github.com/daye10/dokkan-farm-bot-release/releases
 - Signal user to update bot ⌛
 - Use mediafire instead of mega so we can use the same link ⌛
 - Show all current events ⌛
-- 
+
 ## Contact, Bug, Contribution, ...
 
 Want to contribute? Great!
