@@ -1,8 +1,7 @@
 {
   "bot_app_version":"alpha-2.0.0",
-  "gb_version":"5.7.1"
-  "client":"global",
-  
+  "gb_version":"5.7.1",
+  "client":"global"
 }
 
 
