@@ -17,7 +17,7 @@ Since version Z, you have to finish all missions of the "The Greatest Warrior" p
 ```
 
 ## Version
-App version : alpha 2.0.0
+App version : alpha 2.1.0
 
 Dokkan version (GLB) : 5.7.1
 
@@ -32,7 +32,7 @@ https://github.com/daye10/dokkan-farm-bot-release/releases
 
 ## Installation
 - Download the project [here](https://github.com/daye10/dokkan-farm-bot-release/archive/refs/heads/master.zip)
-- Download [dokkan.exe](https://mega.nz/file/tNAG3aiJ#HOwwyty69FNz5oAsKmYkRuBgoSqnOSzDnkp7PGnSTOk)
+- Download [dokkan.exe](https://mega.nz/file/ZIQU1BZT#VPDEzbJu6XBwzfXWAcjZygDNSn6aA9ymcz37qKqAJKM)
 - Move dokkan.exe in the unziped folder
 - Run  dokkan.exe 
 - Enjoy !
@@ -44,10 +44,8 @@ https://github.com/daye10/dokkan-farm-bot-release/releases
 
 ## TODO / Coming Soon
 - Auto complete great warrior goku missions ⌛
-- Signal user to update bot ⌛
-- Use mediafire instead of mega so we can use the same link ⌛
-- Show all current events ⌛
-
+- Fix load from Saves
+- Do Zbattles without level limit
 ## Contact, Bug, Contribution, ...
 
 Want to contribute? Great!
