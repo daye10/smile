@@ -10,6 +10,7 @@ To stop a command from executing, hold ctrl + c
 'quests' -> Clear unfinished quest stages.
 'events' -> Clear unfinished event stages.
 'zbattles' -> Clear unfinished zbattles to stage 30.
+'allstars' -> Clear Dokkan All-Stars to stage 999.
 'zstages' -> Provides a GUI to complete specific Z-Battle stages.
 'clash' -> Complete ultimate clash if you have enough UR cards.
 'listevents' -> Prints a list of all currently available events.
