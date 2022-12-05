@@ -1,8 +1,8 @@
 {
   "bot_app_version":"alpha-2.1.2",
   "gb_version":"5.7.1",
-  "client":"global"
-  "update_note":"message to display if there is an update"
+  "client":"global",
+  "update_note":"message to display if there is an update",
   "discord":"discord url"
   
 }
