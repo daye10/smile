@@ -17,7 +17,7 @@ Since version Z, you have to finish all missions of the "The Greatest Warrior" p
 ```
 
 ## Version
-App version : alpha 2.1.0
+App version : alpha 2.1.1
 
 Dokkan version (GLB) : 5.7.1
 
