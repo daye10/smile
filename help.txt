@@ -12,7 +12,7 @@ To stop a command from executing, hold ctrl + c
 'zbattles' -> Clear unfinished zbattles to stage 30.
 'allstars' -> Clear Dokkan All-Stars to stage 999.
 'zstages' -> Provides a GUI to complete specific Z-Battle stages.
-'clash' -> Complete ultimate clash if you have enough UR cards.
+'clash' -> Complete ultimate clash (Battle Royale) if you have enough UR cards.
 'listevents' -> Prints a list of all currently available events.
 'chooseevents' -> Provides a GUI to sort through events.
 'summon' -> Provides a GUI to choose what banner to summon.
@@ -27,8 +27,9 @@ To stop a command from executing, hold ctrl + c
 'supporter' -> Change your support Unit.
 'deck' -> Select a deck to be the default.
 'gift' -> Accepts gifts and missions.
-(OBSOLETE) 'transfer' -> Generates transfer code.
 'capacity' -> Increase card capacity by +5.
 'name' -> Change account name.
 'refresh' -> Reauthenticates the client.
 'facebook transfer' -> Links you current account to facebook.
+
+'support' -> Prints discord support server.
