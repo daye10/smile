@@ -12,12 +12,10 @@ This bot is an improved version of the [open source bot](https://github.com/Robe
 ```diff
 - 🔴 Facebook Link issue :
 Once you have clicked on "Continue" close the browser window, link to your facebook account will process as well !!
-- 🔴 Z Battle issue :
-Since version Z, you have to finish all missions of the "The Greatest Warrior" panel (missions for beginners to unlock f2p LR goku) to unlock this mode ingame, working on it.
 ```
 
 ## Version
-App version : alpha 2.1.1
+App version : alpha 2.1.2
 
 Dokkan version (GLB) : 5.7.1
 
