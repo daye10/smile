@@ -30,7 +30,7 @@ https://github.com/daye10/dokkan-farm-bot-release/releases
 
 ## Installation
 - Download the project [here](https://github.com/daye10/dokkan-farm-bot-release/archive/refs/heads/master.zip)
-- Download [dokkan.exe](https://mega.nz/file/hVQRTYaC#pRQDfvcDKLVr34uR1vf82meZj1l1rjaoiZuz_l5mxUs)
+- Download [dokkan.exe](https://mega.nz/file/UQJCAAzK#r_1nJDzWDDP0ZdFkgZBG7LKkYYe4-8-StYJYCDCRGpA)
 - Move dokkan.exe in the unziped folder
 - Run  dokkan.exe 
 - Enjoy !

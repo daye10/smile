@@ -1,8 +1,8 @@
 {
   "bot_app_version":"alpha-2.1.3",
-  "gb_version":"5.7.1",
+  "gb_version":"5.8.0",
   "client":"global",
-  "update_note":"The bot is not compatible with 5.8.0 ver. on GLB yet.",
+  "update_note":"alpha-2.1.3 - compatible with 5.8.0 ver. on GLB.",
   "discord":"No discord yet."
 }
 
