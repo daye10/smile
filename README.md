@@ -15,11 +15,14 @@ Once you have clicked on "Continue" close the browser window, link to your faceb
 ```
 
 ## Version
-App version : alpha 2.1.2
+App version : alpha 3.0.0
 
-Dokkan version (GLB) : 5.7.1
+Dokkan version (GLB) : 5.7]8.1
 
 https://github.com/daye10/dokkan-farm-bot-release/releases
+
+Discord : https://discord.gg/CCxkyEeQQZ
+
 ## Features
 
 - Complete any event with instant finish (Dokkan events, Z-Battle, Red Zone and more)
@@ -30,7 +33,7 @@ https://github.com/daye10/dokkan-farm-bot-release/releases
 
 ## Installation
 - Download the project [here](https://github.com/daye10/dokkan-farm-bot-release/archive/refs/heads/master.zip)
-- Download [dokkan.exe](https://direct-link.net/560910/dokkan-bot)
+- Download [dokkan.exe](https://mega.nz/file/EQxVXDAR#U6fSTtV1lRhqrW-0CDqotUIVUAqVw-lW7_yv6U4PEOc)
 - Move dokkan.exe in the unziped folder
 - Run  dokkan.exe 
 - Enjoy !
