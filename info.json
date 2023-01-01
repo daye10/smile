@@ -1,8 +1,8 @@
 {
-  "bot_app_version":"alpha-3.0.0",
+  "bot_app_version":"alpha-3.1.0",
   "gb_version":"5.8.1",
   "client":"global",
-  "update_note":"alpha-3.0.0 - compatible with 5.8.1 ver. on GLB.",
+  "update_note":"alpha-3.1.0 - compatible with 5.8.1 ver. on GLB.",
   "discord":"https://discord.gg/CCxkyEeQQZ"
 }
 
