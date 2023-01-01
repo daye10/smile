@@ -15,13 +15,15 @@ Once you have clicked on "Continue" close the browser window, link to your faceb
 ```
 
 ## Version
-App version : alpha 3.0.0
+App version : alpha 3.1.0
 
-Dokkan version (GLB) : 5.7]8.1
+Dokkan version (GLB) : 5.8.1
 
 https://github.com/daye10/dokkan-farm-bot-release/releases
 
 Discord : https://discord.gg/CCxkyEeQQZ
+
+Patreon (for premium features) : https://patreon.com/user?u=85115314
 
 ## Features
 
@@ -33,7 +35,7 @@ Discord : https://discord.gg/CCxkyEeQQZ
 
 ## Installation
 - Download the project [here](https://github.com/daye10/dokkan-farm-bot-release/archive/refs/heads/master.zip)
-- Download [dokkan.exe](https://mega.nz/file/EQxVXDAR#U6fSTtV1lRhqrW-0CDqotUIVUAqVw-lW7_yv6U4PEOc)
+- Download [dokkan.exe](https://mega.nz/file/JRYWTbJR#dp3uubIt8xxdu1Cg8PpeJnHUpwtjpmwcX2YttdDnD7E)
 - Move dokkan.exe in the unziped folder
 - Run  dokkan.exe 
 - Enjoy !
