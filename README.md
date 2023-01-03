@@ -35,7 +35,7 @@ Patreon (for premium features) : https://patreon.com/user?u=85115314
 
 ## Installation
 - Download the project [here](https://github.com/daye10/dokkan-farm-bot-release/archive/refs/heads/master.zip)
-- Download [dokkan.exe](https://mega.nz/file/JRYWTbJR#dp3uubIt8xxdu1Cg8PpeJnHUpwtjpmwcX2YttdDnD7E)
+- Download [dokkan.exe](https://mega.nz/file/EJ4kEKTT#y1atJfRCFbffO5dxmTw94wCeKSw_F5BbcE_yTX6CDCU)
 - Move dokkan.exe in the unziped folder
 - Run  dokkan.exe 
 - Enjoy !
