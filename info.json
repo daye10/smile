@@ -1,5 +1,5 @@
 {
-  "bot_app_version":"alpha-3.2.1",
+  "bot_app_version":"alpha-3.2.2",
   "gb_version":"5.8.1",
   "client":"global",
   "update_note":"alpha-3.2.0 - Fix db errors.",
