@@ -1,8 +1,8 @@
 {
-  "bot_app_version":"alpha-3.2.2",
+  "bot_app_version":"alpha-4.0.0",
   "gb_version":"5.8.1",
   "client":"global",
-  "update_note":"alpha-3.2.0 - Fix db errors.",
+  "update_note":"Bot is down until 5.9.2 on GLB, preparing update.",
   "discord":"https://discord.gg/CCxkyEeQQZ"
 }
 
