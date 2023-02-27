@@ -1,5 +1,5 @@
 {
-  "bot_app_version":"alpha-4.0.1",
+  "bot_app_version":"alpha-4.0.0",
   "gb_version":"5.9.2",
   "client":"global",
   "update_note":"Optimization of discord auth, preparing update.",
