@@ -1,9 +1,9 @@
 {
-  "bot_app_version":"alpha-4.0.0",
+  "bot_app_version":"alpha-4.0.1",
   "gb_version":"5.9.2",
   "client":"global",
-  "update_note":"Optimization of discord auth, preparing update.",
-  "discord":"https://discord.gg/CCxkyEeQQZ"
+  "update_note":"Optimization of discord auth, and almost all premium commands now free !",
+  "discord":"https://discord.gg/EfnncugpzR"
 }
 
 
