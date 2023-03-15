@@ -1,8 +1,8 @@
 {
-  "bot_app_version":"alpha-4.1.0",
+  "bot_app_version":"alpha-4.1.1",
   "gb_version":"5.9.2",
   "client":"global",
-  "update_note":"Optimization of discord auth, and almost all premium commands now free !",
+  "update_note":"Encoutering issue when log in from facebook or linking account, fixing the error.",
   "discord":"https://discord.gg/EfnncugpzR"
 }
 
