@@ -1,8 +1,8 @@
 {
-  "bot_app_version":"alpha-4.1.1",
+  "bot_app_version":"alpha-4.1.2",
   "gb_version":"5.9.2",
   "client":"global",
-  "update_note":"Encoutering issue when log in from facebook or linking account, fixing the error.",
+  "update_note":"Google log in is not supported on android yet.",
   "discord":"https://discord.gg/EfnncugpzR"
 }
 
