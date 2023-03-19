@@ -2,7 +2,7 @@
   "bot_app_version":"alpha-4.1.2",
   "gb_version":"5.9.2",
   "client":"global",
-  "update_note":"Google log in is not supported on android yet.",
+  "update_note":"New update : Google log in is supported for iOS.",
   "discord":"https://discord.gg/EfnncugpzR"
 }
 
