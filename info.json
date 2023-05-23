@@ -1,9 +1,9 @@
 {
-  "bot_app_version":"alpha-4.1.2",
-  "gb_version":"5.9.2",
+  "bot_app_version":"0",
+  "gb_version":"5.10.1",
   "client":"global",
-  "update_note":"New update : Google log in is supported for iOS.",
-  "discord":"https://discord.gg/EfnncugpzR"
+  "update_note":"Notice : discontinued for an indefinite time.",
+  "discord":"-"
 }
 
 
