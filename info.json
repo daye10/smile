@@ -1,8 +1,8 @@
 {
-  "bot_app_version":"0",
-  "gb_version":"5.10.1",
+  "bot_app_version":"'alpha-4.1.3'",
+  "gb_version":"5.11",
   "client":"global",
-  "update_note":"Notice : discontinued for an indefinite time.",
+  "update_note":"5.11 bow supported",
   "discord":"-"
 }
 
