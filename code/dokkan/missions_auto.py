@@ -19,6 +19,9 @@ class DOKKAN:
         # ==========================================================
         #                       Code Here   
         #                       Example :
+        colmsg('cyan', 'Contributor : *name*')
+        
+        colmsg('magenta', 'Attempting some missions of 8th anni:')
         self.accept_gifts()
         self.complete_area('720') # --> SBR area
         self.complete_clash()
