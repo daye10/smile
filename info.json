@@ -3,7 +3,8 @@
   "gb_version":"5.11",
   "client":"global",
   "update_note":"New bot available !!",
-  "discord":"-"
+  "discord":"-",
+  "state": "This bot version is not maintened any more"
 }
 
 
