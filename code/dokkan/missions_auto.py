@@ -29,7 +29,7 @@ class DOKKAN:
         self.accept_missions()
         # ==========================================================
         
-        pass
+        return
         
 
     def accept_gifts(self):

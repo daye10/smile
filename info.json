@@ -1,9 +1,9 @@
 {
-  "bot_app_version":"-",
-  "gb_version":"5.11",
-  "client":"global",
+  "bot_app_version":null,
+  "gb_version":null,
+  "client":null,
   "update_note":"New bot available !!",
-  "discord":"-",
+  "discord":null,
   "state": "This bot version is not maintened any more"
 }
 
