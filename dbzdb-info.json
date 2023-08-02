@@ -1,4 +1,6 @@
 {
-  "bot_version":"1.4"
+  "bot_version":"1.4",
+  "is_tenkaichi_budokai": false,
+  "is_coop_period": false
 }
 
