@@ -40,7 +40,7 @@ This project allows everyone to be able to farm for Dragon Ball Z: Dokkan Battle
 
 <!-- GETTING STARTED -->
 ## Getting Started
-[![Discord][discord-shield]][discord-url]
+* [![Discord][discord-shield]][discord-url]
 1. Join our [Discord Server](https://discord.com/invite/q59QbpqH2Z).
 2. Download and install the .exe file.
 
