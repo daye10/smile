@@ -1,66 +1,76 @@
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
+<!-- PROJECT SHIELDS -->
 [![MIT License][license-shield]][license-url]
+[![Discord][discord-shield]][discord-url]
 
+<!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/daye10/smile">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Free Farm Bot for Dragon Ball Z: Dokkan Battle & One Piece Treasure Cruise</h3>
-
+  <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <h3 align="center">Smile Farm Bot</h3>
   <p align="center">
-    A powerful free farm bot for Dragon Ball Z: Dokkan Battle & One Piece Treasure Cruise!
+    A Free Farm bot for Dragon Ball Z: Dokkan Battle & One Piece Treasure Cruise!
     <br />
-    <a href="https://github.com/daye10/smile"><strong>Explore the docs »</strong></a>
+    <strong><a href="https://github.com/daye10/smile">Explore the GitHub repo »</a></strong>
     <br />
     <br />
-    <a href="https://discord.com/invite/q59QbpqH2Z">Join us on Discord</a>
+    <a href="https://discord.com/invite/q59QbpqH2Z">Join our Discord to Download</a>
   </p>
 </div>
 
+<!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#usage">Usage</a></li>
     <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
+<!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Free Farm bot for Dragon Ball Z: Dokkan Battle & One Piece Treasure Cruise. Easy to use, powerful, and completely free!
+This project allows everyone to be able to farm for Dragon Ball Z: Dokkan Battle & One Piece Treasure Cruise. Follow the advancement of the projects here:
+- For Dokkan: [Project Board](https://github.com/users/daye10/projects/1)
+- For One Piece: [Project Board](https://github.com/users/daye10/projects/2)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+<!-- GETTING STARTED -->
 ## Getting Started
 
-### Installation
+1. Join our [Discord Server](https://discord.com/invite/q59QbpqH2Z).
+2. Download and install the .exe file.
 
-1. Download and install the .exe file from our [Discord server](https://discord.com/invite/q59QbpqH2Z).
-2. Run the .exe file and enjoy the game!
+That's it! No Python or other tools needed!
+
+<!-- USAGE -->
+## Usage
+
+Please refer to the instructions in our Discord server for detailed usage guidelines.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LICENSE -->
+## License
+
+Copyright © 2023 by @daye10 and @GoldieLeGenie. Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<!-- CONTACT -->
 ## Contact
 
-[@daye10](https://github.com/daye10) & [@GoldieLeGenie](https://github.com/GoldieLeGenie)
+Feel free to contact us:
+- [@daye10](https://github.com/daye10)
+- [@GoldieLeGenie](https://github.com/GoldieLeGenie)
 
 Project Link: [https://github.com/daye10/smile](https://github.com/daye10/smile)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## License
-
-Copyright © 2023 by daye10 & GoldieLeGenie. All Rights Reserved.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-[contributors-shield]: https://img.shields.io/badge/Contributors-2-green?style=for-the-badge
-[contributors-url]: https://github.com/daye10/smile/graphs/contributors
-[license-shield]: https://img.shields.io/badge/License-Proprietary-blue?style=for-the-badge
+<!-- MARKDOWN LINKS & IMAGES -->
+[license-shield]: https://img.shields.io/github/license/daye10/smile.svg?style=for-the-badge
 [license-url]: https://github.com/daye10/smile/blob/master/LICENSE.txt
+[discord-shield]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
+[discord-url]: https://discord.com/invite/q59QbpqH2Z
