@@ -1,6 +1,8 @@
 {
+  "gb_version": 5.12.0-347d017198077f9178e5b41d7437d9353d8e5162dcbae24764a520d87c289bae,
+  "jp_version": 5.14.0-620c387e82d5a309f824d5bfab12452b4795243c25473bf73e659b9510081bf2,
   "bot_version":"1.4",
   "is_tenkaichi_budokai": false,
-  "is_coop_period": false
+  "is_coop_period": true
 }
 
