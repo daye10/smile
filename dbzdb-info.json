@@ -3,6 +3,6 @@
   "jp_version": "5.14.0-620c387e82d5a309f824d5bfab12452b4795243c25473bf73e659b9510081bf2",
   "bot_version":"1.53",
   "is_tenkaichi_budokai": false,
-  "is_coop_period": true
+  "is_coop_period": false
 }
 
