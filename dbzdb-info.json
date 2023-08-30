@@ -4,6 +4,6 @@
   "bot_version":"1.53",
   "is_tenkaichi_budokai": false,
   "is_maintenance": true,
-  "is_coop_period": true
+  "is_coop_period": false
 }
 
