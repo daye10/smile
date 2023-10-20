@@ -2,7 +2,7 @@
   "gb_version": "5.14.1-d7674ae734b89d05da6b0dabc7ae9c6e8c87fc3dbaaea453340b9bb0a318426b",
   "jp_version": "5.15.0-b6cdfbe92680842e1e2cce98d0b3084eca9a9bef07d7a3b80f3d008dd40f3a95",
   "bot_version":"1.54.5",
-  "is_tenkaichi_budokai": false,
+  "is_tenkaichi_budokai": true,
   "is_maintenance": false,
   "is_coop_period": false
 }
