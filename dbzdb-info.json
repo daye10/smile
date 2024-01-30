@@ -3,7 +3,7 @@
   "jp_version": "5.17.1-048fe785e4c526219370506f327492d167a4973324c9215921a755316561c3cd",
   "bot_version":"1.56.2",
   "is_tenkaichi_budokai": false,
-  "is_maintenance": true,
+  "is_maintenance": false,
   "is_coop_period": false
 }
 
