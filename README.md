@@ -1,4 +1,4 @@
-[![Discord](https://dcbadge.vercel.app/api/server/dbz-dokkanbattle?style=flat)](https://discord.gg/dbz-dokkanbattle) 
+[![Discord](https://dcbadge.vercel.app/api/server/q59QbpqH2Z?style=flat)](https://discord.gg/q59QbpqH2Z) 
 # Smile Farm Bot
 
 **A Free Farm bot for Dragon Ball Z: Dokkan Battle & One Piece Treasure Cruise!**
