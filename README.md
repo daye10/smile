@@ -1,3 +1,4 @@
+[![Join us on Discord](https://invidget.switchblade.xyz/q59QbpqH2Z)](https://discord.gg/q59QbpqH2Z)
 <a name="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
@@ -10,7 +11,6 @@
   <img src="images/logo.png" alt="Logo" width="80" height="80">
   <h3 align="center">Smile Farm Bot</h3>
   <p align="center">
-    [![Join us on Discord](https://invidget.switchblade.xyz/autogpt)](https://discord.gg/q59QbpqH2Z)
     A Free Farm bot for Dragon Ball Z: Dokkan Battle & One Piece Treasure Cruise!
     <br />
     <strong><a href="https://github.com/daye10/smile">Explore the GitHub repo »</a></strong>
