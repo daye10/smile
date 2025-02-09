@@ -1,0 +1,209 @@
+{
+    "card_id": 1022721,
+    "shader_file": "shader/specialsticker/RGBMaskAnimation",
+    "parameters": [
+        {
+            "type": "sampler2D",
+            "name": "u_maskTexture",
+            "value": "character/card/1022720/card_1022720_sticker_mask.png"
+        },
+        {
+            "type": "sampler2D",
+            "name": "u_red_blendTexture",
+            "value": "outgame/special_sticker/general_texture/ef_seamless_wave5.png"
+        },
+        {
+            "type": "vec2",
+            "name": "u_red_tiling",
+            "value": [
+                1,
+                1
+            ]
+        },
+        {
+            "type": "vec2",
+            "name": "u_red_offset",
+            "value": [
+                0.085,
+                -0.61
+            ]
+        },
+        {
+            "type": "int",
+            "name": "u_red_blendType",
+            "value": 0
+        },
+        {
+            "type": "vec3",
+            "name": "u_red_color",
+            "value": [
+                1,
+                0.6745098039215687,
+                0.9607843137254902
+            ]
+        },
+        {
+            "type": "float",
+            "name": "u_red_intensity",
+            "value": 0.8
+        },
+        {
+            "type": "int",
+            "name": "u_red_coordinateType",
+            "value": 1
+        },
+        {
+            "type": "vec2",
+            "name": "u_red_scrollVelocity",
+            "value": [
+                -1,
+                0
+            ]
+        },
+        {
+            "type": "vec2",
+            "name": "u_red_rotateCenter",
+            "value": [
+                0,
+                0
+            ]
+        },
+        {
+            "type": "float",
+            "name": "u_red_rotateVelocity",
+            "value": 0
+        },
+        {
+            "type": "sampler2D",
+            "name": "u_green_blendTexture",
+            "value": "outgame/special_sticker/general_texture/ef_seamless_smoke4.png"
+        },
+        {
+            "type": "vec2",
+            "name": "u_green_tiling",
+            "value": [
+                1,
+                1
+            ]
+        },
+        {
+            "type": "vec2",
+            "name": "u_green_offset",
+            "value": [
+                -0.5,
+                -0.5
+            ]
+        },
+        {
+            "type": "int",
+            "name": "u_green_blendType",
+            "value": 0
+        },
+        {
+            "type": "vec3",
+            "name": "u_green_color",
+            "value": [
+                1,
+                0.22745098039215686,
+                0.2901960784313726
+            ]
+        },
+        {
+            "type": "float",
+            "name": "u_green_intensity",
+            "value": 0.8
+        },
+        {
+            "type": "int",
+            "name": "u_green_coordinateType",
+            "value": 1
+        },
+        {
+            "type": "vec2",
+            "name": "u_green_scrollVelocity",
+            "value": [
+                1,
+                -1
+            ]
+        },
+        {
+            "type": "vec2",
+            "name": "u_green_rotateCenter",
+            "value": [
+                0,
+                0
+            ]
+        },
+        {
+            "type": "float",
+            "name": "u_green_rotateVelocity",
+            "value": 0
+        },
+        {
+            "type": "sampler2D",
+            "name": "u_blue_blendTexture",
+            "value": "outgame/special_sticker/general_texture/ef_seamless_smoke4.png"
+        },
+        {
+            "type": "vec2",
+            "name": "u_blue_tiling",
+            "value": [
+                3,
+                3
+            ]
+        },
+        {
+            "type": "vec2",
+            "name": "u_blue_offset",
+            "value": [
+                -0.5,
+                -0.5
+            ]
+        },
+        {
+            "type": "int",
+            "name": "u_blue_blendType",
+            "value": 1
+        },
+        {
+            "type": "vec3",
+            "name": "u_blue_color",
+            "value": [
+                0,
+                0.4666666666666667,
+                0.9568627450980393
+            ]
+        },
+        {
+            "type": "float",
+            "name": "u_blue_intensity",
+            "value": 0.5
+        },
+        {
+            "type": "int",
+            "name": "u_blue_coordinateType",
+            "value": 1
+        },
+        {
+            "type": "vec2",
+            "name": "u_blue_scrollVelocity",
+            "value": [
+                -1,
+                -1
+            ]
+        },
+        {
+            "type": "vec2",
+            "name": "u_blue_rotateCenter",
+            "value": [
+                0,
+                0
+            ]
+        },
+        {
+            "type": "float",
+            "name": "u_blue_rotateVelocity",
+            "value": 0
+        }
+    ]
+}
