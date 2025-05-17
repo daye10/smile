@@ -1,8 +1,7 @@
 
 [![Discord](https://dcbadge.vercel.app/api/server/q59QbpqH2Z?style=flat)](https://discord.gg/q59QbpqH2Z)
 # SMILE 
-**A fake Python client and automation bot for Dokkan Battle**
-**Supports 40 000+ monthly users.**
+**An unfficial Python client and automation bot for Dokkan Battle that supports 40 000+ monthly users.**
 [![Join us on Discord](https://invidget.switchblade.xyz/q59QbpqH2Z)](https://discord.gg/q59QbpqH2Z)
 ---
 
